@@ -17,7 +17,7 @@ with source_data as (
 )
 
 select id,
-    salary + 100 AS salary
+    salary + 200 AS salary
 from student
 
 /*
