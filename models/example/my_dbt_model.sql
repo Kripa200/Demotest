@@ -11,7 +11,7 @@
 
 
 select id,
-    salary + 500 AS salary
+    salary + 100 AS salary
 from student
 
 /*
